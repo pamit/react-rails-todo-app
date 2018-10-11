@@ -28,7 +28,6 @@ gem 'bootsnap', '>= 1.1.0', require: false
 # gem 'rack-cors'
 
 group :production do
-  # Use postgresql as the database for Active Record
   gem 'pg'
 end
 
