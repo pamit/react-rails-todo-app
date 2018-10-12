@@ -59,7 +59,7 @@ input[placeholder] {
 
 .container {
 	width: 40%;
-	height: 700px;
+	height: 400px;
 	position: relative;
 	margin: 0 auto;
 	border-radius: 5px;
@@ -79,7 +79,7 @@ input[placeholder] {
 .inputContainer .taskInput {
 	padding: 10px;
 	width: 100%;
-	border-radius: 5px;
+	border-radius: 25px;
 	box-sizing: border-box;
 }
 
